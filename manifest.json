@@ -1,0 +1,12 @@
+{
+    "name": "Krunka Hack December 2019",
+    "version": "1.0",
+    "author": "Distributed by BayMaxYT",
+    "suport_url": "https://bit.ly/BayMaxDiscord",
+    "homepage": "https://github.com/ZeWhiteHatHacker/december-krunker-hack/",
+    "manifest_version": 2,
+    "description": "Epic Krunekr hack working in december 2019. Distributed by BayMaxYT",
+    "content_scripts": [
+        { "matches": ["https://krunker.io/", "https://krunker.io/*game*"], "run_at": "document_start", "js": ["chairloader.js"], "all_frames": true, "match_about_blank": true }
+    ]
+}
