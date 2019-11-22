@@ -15,7 +15,7 @@ try {
             // must be synchronous to force execution before other scripts
             // note: we fetch the same code for each iframe
             let request = new XMLHttpRequest();
-            request.open('GET', 'https://raw.githubusercontent.com/ZeWhiteHatHacker/december-krunker-hack/master/main.js', false);
+            request.open('GET', 'https://raw.githubusercontent.com/hrt/WheelChair/master/wheelchair.min.js', false);
             request.send(null);
             if (request.status != 200) {
                 console.error('Error GET wheelchair: ' + request.status);
@@ -37,6 +37,7 @@ try {
         }
     } catch (e) {
         if (e instanceof DOMException) {
+            // expected for sandboxed iframes
             console.warn(e);
         } else {
             throw e;
