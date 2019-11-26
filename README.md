@@ -9,8 +9,9 @@
 ```
 [![Latest Version Shield](https://img.shields.io/github/v/release/ZeWhiteHatHacker/december-krunker-hack?color=green&include_prereleases&style=for-the-badge)](https://bit.ly/BayMaxYT)
 .
+.                    🔽
 ▶ (Click the Watch button at the top right) ◀
-.
+                     🔼
 
 .
 
