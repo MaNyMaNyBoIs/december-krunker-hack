@@ -1,13 +1,14 @@
 # december krunker hack
  An **undetectable** krunker hack working in December 2019 with AImbot, GOD mode, auto heal, power gun, wallhack, esp, tracers, and way more options.
 
-
+-
 > **Current status:**
 ```diff
 + Latest version (1.1) working!
-! Working on update 1.2! Stay tuned (Click the Watch button at the top right)
+! Working on update 1.2. Stay tuned !
 ```
-
+▶ (Click the Watch button at the top right) ◀
+-
 
 
 
